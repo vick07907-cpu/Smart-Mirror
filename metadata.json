@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Smart Mirror AI",
+  "description": "A futuristic smart mirror interface with real-time AI conversation, weather updates, and voice-controlled productivity tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
